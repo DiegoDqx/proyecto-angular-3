@@ -1,0 +1,29 @@
+.letra {
+    font-family: 'Comic Sans MS', sans-serif;
+}
+
+/* src/app/contactanos/contactanos.component.css */
+
+.card {
+    margin: 10px 0;
+  }
+  
+  .card-img-top {
+    height: 200px;
+    object-fit: cover;
+  }
+  
+  .card-body {
+    text-align: center;
+  }
+  
+  .card-title {
+    font-size: 1.2em;
+    font-weight: bold;
+  }
+  
+  .card-text {
+    font-size: 1em;
+    color: #555;
+  }
+  
